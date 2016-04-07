@@ -1,5 +1,4 @@
 # edxcourse
-EDX Course
 <!DOCTYPE html>
 <html>
 <head>
