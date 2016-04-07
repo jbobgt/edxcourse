@@ -1,5 +1,4 @@
 # edxcourse
-<!DOCTYPE html>
 <html>
 <head>
     <title>My Favorite Recipe</title>
@@ -20,7 +19,7 @@
       and contains no milk.
    </div>
 </div>
-    </section>
+</section>
 <section>
 <h2>Ingredients</h2>
 <p>40 m 8 servings 298 cals </p>
