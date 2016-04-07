@@ -12,7 +12,7 @@
 <section>
 <div>
 <p>Recipe by: JBOB at EDX</p>
-    <p> <img src="edxcourse/lemonpie.png"></p>
+    <p> <img src="lemonpie.png"></p>
    <div>
       This is a very fun recipe to follow, because Grandma makes it sweet and simple. 
       This pie is thickened with cornstarch and flour in addition to egg yolks, 
